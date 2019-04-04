@@ -1,0 +1,7 @@
+C:\Users\ШулякД\source\repos\ExamWork\ExamWork\bin\Debug\ExamWork.exe.config
+C:\Users\ШулякД\source\repos\ExamWork\ExamWork\bin\Debug\ExamWork.exe
+C:\Users\ШулякД\source\repos\ExamWork\ExamWork\bin\Debug\ExamWork.pdb
+C:\Users\ШулякД\source\repos\ExamWork\ExamWork\obj\Debug\ExamWork.csprojAssemblyReference.cache
+C:\Users\ШулякД\source\repos\ExamWork\ExamWork\obj\Debug\ExamWork.csproj.CoreCompileInputs.cache
+C:\Users\ШулякД\source\repos\ExamWork\ExamWork\obj\Debug\ExamWork.exe
+C:\Users\ШулякД\source\repos\ExamWork\ExamWork\obj\Debug\ExamWork.pdb

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Stock xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <productStock>1)Телефон</productStock>
+</Stock><?xml version="1.0"?>
+<Stock xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <productStock>2)Пылесос</productStock>
+</Stock><?xml version="1.0"?>
+<Stock xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <productStock>3)Утюг</productStock>
+</Stock><?xml version="1.0"?>
+<Stock xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <productStock>4)Шкаф</productStock>
+</Stock><?xml version="1.0"?>
+<Stock xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <productStock>5)Холодильник</productStock>
+</Stock>
